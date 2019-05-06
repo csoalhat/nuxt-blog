@@ -29,6 +29,10 @@ module.exports = {
   loading: {
     color: '#3B8070'
   },
+  mode: 'spa',
+  router: {
+    base: '/nuxt-blog/'
+  },
   /*
    ** Build configuration
    */
